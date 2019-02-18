@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="FlexBuildConfigurationManager" active="Digits">
+    <configurations>
+      <configuration name="Digits" target-platform="Mobile" pure-as="true" main-class="Main" output-file="Main.swf" output-folder="$MODULE_DIR$/out/production/Digits">
+        <dependencies>
+          <entries>
+            <entry library-name="SoundAS" library-level="application">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-name="Utils" library-level="application">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-name="Gaf Starling 2.1 lib" library-level="application">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-name="Stardust Particle System lib (Starling 2.0)" library-level="application">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-name="Stardust Particle System loader lib" library-level="application">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-name="Starling 2.2 lib" library-level="application">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="air26_sdk_win" />
+        </dependencies>
+        <compiler-options>
+          <option name="additionalOptions" value="-swf-version=28 -advanced-telemetry=true" />
+        </compiler-options>
+        <packaging-air-desktop />
+        <packaging-android enabled="true" use-generated-descriptor="false" custom-descriptor-path="$MODULE_DIR$/Digits-app.xml" package-file-name="Digits">
+          <files-to-package>
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/init_screen/1080x1920-Portrait.png" path-in-package="1080x1920-Portrait.png" />
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/init_screen/1200x1920-Portrait.png" path-in-package="1200x1920-Portrait.png" />
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/init_screen/450x960-Portrait.png" path-in-package="450x960-Portrait.png" />
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/init_screen/480x800-Portrait.png" path-in-package="480x800-Portrait.png" />
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/init_screen/480x854-Portrait.png" path-in-package="480x854-Portrait.png" />
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/init_screen/600x1024-Portrait.png" path-in-package="600x1024-Portrait.png" />
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/init_screen/720x1280-Portrait.png" path-in-package="720x7280-Portrait.png" />
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/init_screen/800x1280-Portrait.png" path-in-package="800x1280-Portrait.png" />
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/init_screen/Default.png" path-in-package="Default.png" />
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/assets" path-in-package="assets" />
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/icons" path-in-package="icons" />
+          </files-to-package>
+        </packaging-android>
+        <packaging-ios enabled="true" use-generated-descriptor="false" custom-descriptor-path="$MODULE_DIR$/Digits-app.xml" package-file-name="Digits">
+          <files-to-package>
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/assets" path-in-package="assets" />
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/icons" path-in-package="icons" />
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/init_screen/Default-375w-667h@2x~iphone.png" path-in-package="Default-375w-667h@2x~iphone.png" />
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/init_screen/Default-414w-736h@3x~iphone.png" path-in-package="Default-414w-736h@3x~iphone.png" />
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/init_screen/Default-568h@2x~iphone.png" path-in-package="Default-568h@2x~iphone.png" />
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/init_screen/Default-Portrait@2x.png" path-in-package="Default-Portrait@2x.png" />
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/init_screen/Default-Portrait@2x~ipad.png" path-in-package="Default-Portrait@2x~ipad.png" />
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/init_screen/Default-Portrait~ipad.png" path-in-package="Default-Portrait~ipad.png" />
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/init_screen/Default.png" path-in-package="Default.png" />
+            <FilePathAndPathInPackage file-path="$MODULE_DIR$/init_screen/Default@2x~iphone.png" path-in-package="Default@2x~iphone.png" />
+          </files-to-package>
+          <AirSigningOptions keystore-path="$MODULE_DIR$/keystore/ios_development.p12" provisioning-profile-path="$MODULE_DIR$/keystore/Digits2.mobileprovision" />
+        </packaging-ios>
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="air26_sdk_win" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="gaf_swc" level="application" />
+    <orderEntry type="library" exported="" name="feathers_swc" level="application" />
+    <orderEntry type="library" exported="" name="Particles" level="application" />
+    <orderEntry type="library" exported="" name="Parcticles" level="application" />
+    <orderEntry type="library" exported="" name="sound" level="application" />
+    <orderEntry type="library" exported="" name="swc" level="application" />
+    <orderEntry type="library" exported="" name="SoundAS" level="application" />
+    <orderEntry type="library" exported="" name="Feathers source" level="application" />
+    <orderEntry type="library" exported="" name="PlayerIO source" level="application" />
+    <orderEntry type="library" exported="" name="Utils" level="application" />
+    <orderEntry type="library" exported="" name="Gaf Starling 2.1 lib" level="application" />
+    <orderEntry type="library" exported="" name="Stardust Particle System lib (Starling 2.0)" level="application" />
+    <orderEntry type="library" exported="" name="Stardust Particle System loader lib" level="application" />
+    <orderEntry type="library" exported="" name="Starling 2.2 lib" level="application" />
+  </component>
+</module>
