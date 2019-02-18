@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7529e6e21101b02e8756417515c41a39:0ed0ef4f12c45f67bd8bbbca93ec7312:74fe2efa1ada87d97211137ecce6bea3$ -->
+<TextureAtlas imagePath="Atlas1.png" width="2048" height="2048">
+    <SubTexture name="back_top_2" x="1104" y="2" rotated="true" width="681" height="2015"/>
+    <SubTexture name="btnRestart" x="729" y="1953" width="96" height="92"/>
+    <SubTexture name="buy1" x="2" y="1102" rotated="true" width="794" height="600"/>
+    <SubTexture name="loadingsounds" x="798" y="1102" rotated="true" width="211" height="547"/>
+    <SubTexture name="song_off" x="798" y="1651" width="300" height="300"/>
+    <SubTexture name="song_on" x="427" y="1704" width="300" height="300"/>
+    <SubTexture name="tablo" x="2" y="1704" width="423" height="280"/>
+    <SubTexture name="tile_field3" x="2" y="2" width="1100" height="1098"/>
+</TextureAtlas>

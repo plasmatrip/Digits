@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7529e6e21101b02e8756417515c41a39:0ed0ef4f12c45f67bd8bbbca93ec7312:74fe2efa1ada87d97211137ecce6bea3$ -->
+<TextureAtlas imagePath="Atlas0.png" width="1024" height="1024">
+    <SubTexture name="1" x="739" y="698" width="36" height="36"/>
+    <SubTexture name="2" x="797" y="561" width="36" height="36"/>
+    <SubTexture name="3" x="842" y="317" width="36" height="36"/>
+    <SubTexture name="4" x="868" y="188" width="36" height="36"/>
+    <SubTexture name="5" x="843" y="226" width="36" height="36"/>
+    <SubTexture name="6" x="843" y="264" width="36" height="36"/>
+    <SubTexture name="7" x="842" y="355" width="36" height="36"/>
+    <SubTexture name="8" x="839" y="393" width="36" height="36"/>
+    <SubTexture name="9" x="836" y="497" width="36" height="36"/>
+    <SubTexture name="10" x="739" y="736" width="36" height="36"/>
+    <SubTexture name="11" x="637" y="738" width="36" height="36"/>
+    <SubTexture name="12" x="675" y="738" width="36" height="36"/>
+    <SubTexture name="13" x="713" y="774" width="36" height="36"/>
+    <SubTexture name="14" x="751" y="774" width="36" height="36"/>
+    <SubTexture name="15" x="786" y="612" width="36" height="36"/>
+    <SubTexture name="16" x="798" y="485" width="36" height="36"/>
+    <SubTexture name="17" x="801" y="383" width="36" height="36"/>
+    <SubTexture name="18" x="801" y="421" width="36" height="36"/>
+    <SubTexture name="19" x="798" y="523" width="36" height="36"/>
+    <SubTexture name="20" x="786" y="650" width="36" height="36"/>
+    <SubTexture name="21" x="785" y="688" width="36" height="36"/>
+    <SubTexture name="22" x="777" y="726" width="36" height="36"/>
+    <SubTexture name="23" x="789" y="764" width="36" height="36"/>
+    <SubTexture name="24" x="824" y="599" width="36" height="36"/>
+    <SubTexture name="25" x="836" y="459" width="36" height="36"/>
+    <SubTexture name="back_down" x="2" y="2" width="384" height="482"/>
+    <SubTexture name="back_top_2" x="2" y="486" width="504" height="170"/>
+    <SubTexture name="btnHome" x="665" y="219" width="86" height="32"/>
+    <SubTexture name="btnMute" x="753" y="219" width="86" height="32"/>
+    <SubTexture name="btnRestart" x="697" y="253" width="24" height="23"/>
+    <SubTexture name="btnUnmute" x="804" y="154" width="86" height="32"/>
+    <SubTexture name="buy1" x="665" y="2" rotated="true" width="199" height="150"/>
+    <SubTexture name="buy2" x="508" y="341" width="150" height="196"/>
+    <SubTexture name="explosion0002" x="453" y="449" width="30" height="27" frameX="-22" frameY="-21" frameWidth="66" frameHeight="70"/>
+    <SubTexture name="explosion0003" x="739" y="652" width="44" height="44" frameX="-12" frameY="-14" frameWidth="66" frameHeight="70"/>
+    <SubTexture name="explosion0004" x="675" y="534" rotated="true" width="54" height="55" frameX="-6" frameY="-8" frameWidth="66" frameHeight="70"/>
+    <SubTexture name="explosion0005" x="575" y="684" width="60" height="62" frameX="-4" frameY="-5" frameWidth="66" frameHeight="70"/>
+    <SubTexture name="explosion0006" x="508" y="629" width="65" height="69" frameX="-1" frameY="-1" frameWidth="66" frameHeight="70"/>
+    <SubTexture name="explosion0007" x="660" y="418" rotated="true" width="69" height="66" frameX="0" frameY="-1" frameWidth="66" frameHeight="70"/>
+    <SubTexture name="explosion0008" x="660" y="418" rotated="true" width="69" height="66" frameX="0" frameY="-1" frameWidth="66" frameHeight="70"/>
+    <SubTexture name="explosion0009" x="598" y="616" rotated="true" width="69" height="66" frameX="0" frameY="-1" frameWidth="66" frameHeight="70"/>
+    <SubTexture name="explosion0010" x="598" y="616" rotated="true" width="69" height="66" frameX="0" frameY="-1" frameWidth="66" frameHeight="70"/>
+    <SubTexture name="explosion0011" x="669" y="616" width="65" height="68" frameX="-1" frameY="-2" frameWidth="66" frameHeight="70"/>
+    <SubTexture name="explosion0012" x="669" y="616" width="65" height="68" frameX="-1" frameY="-2" frameWidth="66" frameHeight="70"/>
+    <SubTexture name="explosion0013" x="731" y="418" rotated="true" width="68" height="65" frameX="0" frameY="-1" frameWidth="66" frameHeight="70"/>
+    <SubTexture name="explosion0014" x="731" y="418" rotated="true" width="68" height="65" frameX="0" frameY="-1" frameWidth="66" frameHeight="70"/>
+    <SubTexture name="explosion0015" x="774" y="253" rotated="true" width="67" height="62" frameX="-1" frameY="-1" frameWidth="66" frameHeight="70"/>
+    <SubTexture name="explosion0016" x="774" y="253" rotated="true" width="67" height="62" frameX="-1" frameY="-1" frameWidth="66" frameHeight="70"/>
+    <SubTexture name="explosion0017" x="774" y="317" rotated="true" width="66" height="64" frameX="-1" frameY="0" frameWidth="66" frameHeight="70"/>
+    <SubTexture name="explosion0018" x="774" y="317" rotated="true" width="66" height="64" frameX="-1" frameY="0" frameWidth="66" frameHeight="70"/>
+    <SubTexture name="explosion0019" x="731" y="485" rotated="true" width="65" height="61" frameX="-3" frameY="0" frameWidth="66" frameHeight="70"/>
+    <SubTexture name="explosion0020" x="731" y="485" rotated="true" width="65" height="61" frameX="-3" frameY="0" frameWidth="66" frameHeight="70"/>
+    <SubTexture name="explosion0021" x="731" y="548" rotated="true" width="64" height="62" frameX="-3" frameY="0" frameWidth="66" frameHeight="70"/>
+    <SubTexture name="explosion0022" x="731" y="548" rotated="true" width="64" height="62" frameX="-3" frameY="0" frameWidth="66" frameHeight="70"/>
+    <SubTexture name="lenta" x="866" y="134" rotated="true" width="56" height="16"/>
+    <SubTexture name="loadingbar" x="665" y="209" width="108" height="8"/>
+    <SubTexture name="loadingsounds" x="665" y="154" width="137" height="53"/>
+    <SubTexture name="musician1" x="388" y="449" rotated="true" width="63" height="35"/>
+    <SubTexture name="musician2" x="866" y="92" rotated="true" width="63" height="40"/>
+    <SubTexture name="musician3" x="460" y="341" width="34" height="63" frameX="0" frameY="0" frameWidth="38" frameHeight="63"/>
+    <SubTexture name="musician4" x="804" y="188" rotated="true" width="62" height="27"/>
+    <SubTexture name="panel" x="388" y="279" width="384" height="39"/>
+    <SubTexture name="play" x="866" y="2" width="88" height="88"/>
+    <SubTexture name="play1" x="508" y="539" width="88" height="88"/>
+    <SubTexture name="play2" x="637" y="686" width="50" height="50"/>
+    <SubTexture name="play3" x="665" y="253" rotated="true" width="30" height="24"/>
+    <SubTexture name="progressBar" x="388" y="320" width="384" height="19"/>
+    <SubTexture name="record" x="660" y="486" width="55" height="46"/>
+    <SubTexture name="settings" x="736" y="612" rotated="true" width="48" height="38"/>
+    <SubTexture name="settings2" x="460" y="406" rotated="true" width="39" height="38"/>
+    <SubTexture name="song_off" x="598" y="539" width="75" height="75"/>
+    <SubTexture name="song_on" x="660" y="341" width="75" height="75"/>
+    <SubTexture name="tablo" x="388" y="341" rotated="true" width="70" height="106"/>
+    <SubTexture name="tile_field3" x="388" y="2" width="275" height="275"/>
+    <SubTexture name="video" x="689" y="686" rotated="true" width="48" height="50"/>
+</TextureAtlas>

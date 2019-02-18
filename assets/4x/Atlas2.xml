@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7529e6e21101b02e8756417515c41a39:0ed0ef4f12c45f67bd8bbbca93ec7312:74fe2efa1ada87d97211137ecce6bea3$ -->
+<TextureAtlas imagePath="Atlas2.png" width="2048" height="2048">
+    <SubTexture name="1" x="1303" y="2" width="144" height="144"/>
+    <SubTexture name="2" x="1122" y="678" width="144" height="144"/>
+    <SubTexture name="3" x="1268" y="732" width="144" height="144"/>
+    <SubTexture name="4" x="1181" y="1071" width="144" height="144"/>
+    <SubTexture name="5" x="646" y="1163" width="144" height="144"/>
+    <SubTexture name="6" x="2" y="1287" width="144" height="144"/>
+    <SubTexture name="7" x="148" y="1287" width="144" height="144"/>
+    <SubTexture name="8" x="294" y="1189" width="144" height="144"/>
+    <SubTexture name="9" x="440" y="1189" width="144" height="144"/>
+    <SubTexture name="10" x="1303" y="148" width="144" height="144"/>
+    <SubTexture name="11" x="1130" y="244" width="144" height="144"/>
+    <SubTexture name="12" x="1276" y="294" width="144" height="144"/>
+    <SubTexture name="13" x="889" y="957" width="144" height="144"/>
+    <SubTexture name="14" x="354" y="1043" width="144" height="144"/>
+    <SubTexture name="15" x="2" y="1141" width="144" height="144"/>
+    <SubTexture name="16" x="148" y="1141" width="144" height="144"/>
+    <SubTexture name="17" x="500" y="1043" width="144" height="144"/>
+    <SubTexture name="18" x="646" y="1017" width="144" height="144"/>
+    <SubTexture name="19" x="1035" y="957" width="144" height="144"/>
+    <SubTexture name="20" x="1181" y="925" width="144" height="144"/>
+    <SubTexture name="21" x="1320" y="440" width="144" height="144"/>
+    <SubTexture name="22" x="1449" y="2" width="144" height="144"/>
+    <SubTexture name="23" x="1449" y="148" width="144" height="144"/>
+    <SubTexture name="24" x="1422" y="294" width="144" height="144"/>
+    <SubTexture name="25" x="1320" y="586" width="144" height="144"/>
+    <SubTexture name="buy2" x="2" y="2" width="600" height="785"/>
+    <SubTexture name="explosion0002" x="1122" y="824" width="112" height="99" frameX="-91" frameY="-87" frameWidth="263" frameHeight="279"/>
+    <SubTexture name="explosion0003" x="1134" y="2" rotated="true" width="167" height="165" frameX="-53" frameY="-59" frameWidth="263" frameHeight="279"/>
+    <SubTexture name="explosion0005" x="889" y="717" width="231" height="238" frameX="-20" frameY="-26" frameWidth="263" frameHeight="279"/>
+    <SubTexture name="explosion0006" x="354" y="789" rotated="true" width="271" height="252" frameX="-9" frameY="-8" frameWidth="263" frameHeight="279"/>
+    <SubTexture name="explosion0009" x="604" y="2" rotated="true" width="269" height="255" frameX="-2" frameY="-10" frameWidth="263" frameHeight="279"/>
+    <SubTexture name="explosion0010" x="604" y="2" rotated="true" width="269" height="255" frameX="-2" frameY="-10" frameWidth="263" frameHeight="279"/>
+    <SubTexture name="explosion0011" x="604" y="515" rotated="true" width="260" height="253" frameX="-10" frameY="-14" frameWidth="263" frameHeight="279"/>
+    <SubTexture name="explosion0012" x="604" y="515" rotated="true" width="260" height="253" frameX="-10" frameY="-14" frameWidth="263" frameHeight="279"/>
+    <SubTexture name="explosion0013" x="604" y="259" rotated="true" width="260" height="254" frameX="0" frameY="-9" frameWidth="263" frameHeight="279"/>
+    <SubTexture name="explosion0014" x="604" y="259" rotated="true" width="260" height="254" frameX="0" frameY="-9" frameWidth="263" frameHeight="279"/>
+    <SubTexture name="explosion0015" x="875" y="2" rotated="true" width="257" height="240" frameX="-8" frameY="-8" frameWidth="263" frameHeight="279"/>
+    <SubTexture name="explosion0016" x="875" y="2" rotated="true" width="257" height="240" frameX="-8" frameY="-8" frameWidth="263" frameHeight="279"/>
+    <SubTexture name="explosion0017" x="627" y="770" rotated="true" width="260" height="245" frameX="-9" frameY="0" frameWidth="263" frameHeight="279"/>
+    <SubTexture name="explosion0018" x="627" y="770" rotated="true" width="260" height="245" frameX="-9" frameY="0" frameWidth="263" frameHeight="279"/>
+    <SubTexture name="explosion0019" x="875" y="244" rotated="true" width="253" height="232" frameX="-18" frameY="-2" frameWidth="263" frameHeight="279"/>
+    <SubTexture name="explosion0020" x="875" y="244" rotated="true" width="253" height="232" frameX="-18" frameY="-2" frameWidth="263" frameHeight="279"/>
+    <SubTexture name="explosion0021" x="866" y="478" rotated="true" width="252" height="237" frameX="-16" frameY="0" frameWidth="263" frameHeight="279"/>
+    <SubTexture name="explosion0022" x="866" y="478" rotated="true" width="252" height="237" frameX="-16" frameY="0" frameWidth="263" frameHeight="279"/>
+    <SubTexture name="play1" x="2" y="789" width="350" height="350"/>
+    <SubTexture name="play2" x="1120" y="478" width="198" height="198"/>
+</TextureAtlas>

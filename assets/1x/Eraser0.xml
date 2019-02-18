@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ec473c39955f9e5f51c0332a22a81c35:3bf223c98900fd7f9ea92c32657f0126:45ba1da7b7dbcf21d51171d0e0e18b6d$ -->
+<TextureAtlas imagePath="Eraser0.png" width="102" height="659">
+    <SubTexture name="eraser0001" x="60" y="619" width="2" height="2" frameX="-98" frameY="-73" frameWidth="100" frameHeight="75"/>
+    <SubTexture name="eraser0002" x="1" y="619" width="57" height="39" frameX="-43" frameY="-36" frameWidth="100" frameHeight="75"/>
+    <SubTexture name="eraser0003" x="1" y="578" width="100" height="39" frameX="0" frameY="-36" frameWidth="100" frameHeight="75"/>
+    <SubTexture name="eraser0004" x="1" y="521" width="100" height="55" frameX="0" frameY="-20" frameWidth="100" frameHeight="75"/>
+    <SubTexture name="eraser0005" x="1" y="385" width="100" height="72" frameX="0" frameY="-3" frameWidth="100" frameHeight="75"/>
+    <SubTexture name="eraser0006" x="1" y="459" width="100" height="60" frameX="0" frameY="-15" frameWidth="100" frameHeight="75"/>
+    <SubTexture name="eraser0007" x="1" y="309" width="100" height="74" frameX="0" frameY="-1" frameWidth="100" frameHeight="75"/>
+    <SubTexture name="eraser0008" x="1" y="1" width="100" height="75"/>
+    <SubTexture name="eraser0009" x="1" y="78" width="100" height="75"/>
+    <SubTexture name="eraser0010" x="1" y="155" width="100" height="75"/>
+    <SubTexture name="eraser0011" x="1" y="232" width="100" height="75"/>
+</TextureAtlas>
